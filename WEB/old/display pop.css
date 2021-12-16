@@ -1,0 +1,29 @@
+span{
+    background-color: rgb(28, 144, 190);
+    border:1px dashed black;
+    width: 100px;
+    /*dont work it ignore*/
+    padding: 10px;
+    /*it work*/
+    margin: 10px;
+    /*work one line in text*/
+}
+h1{
+    text-align:center;
+    background-color: paleturquoise;
+    border: 1px solid black;
+    width: 300px;
+    height: 100px;
+    /*work*/
+    padding: 10px;
+    /*work*/
+    margin: 10px;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border:1px solid black;
+    display: inline-block;
+    margin: 20px;
+}

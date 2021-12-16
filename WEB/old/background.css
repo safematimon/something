@@ -1,0 +1,15 @@
+section{
+    width: 80%;
+    height: 800px;
+    background-color: purple;
+    background-image: url(https://s.abcnews.com/images/Entertainment/ht_ted_2_kab_150625_16x9_992.jpg);
+    margin: 0 auto;
+    background-size:cover;
+    background-position: center;
+    
+}
+
+h1{
+    font-size: 100px;
+    color: white;
+}

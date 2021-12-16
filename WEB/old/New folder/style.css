@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+#sep{
+    text-align: right;
+     
+}
+body{
+    background: linear-gradient(180deg, #2b5876 0%, #4e4376 100%);
+}
+
+* {
+    font-family: Montserrat, sans-serif;
+}
+
+.dog{
+    display: block;
+    margin: auto;
+    max-width: 50%;
+    max-height: 50%;
+    border-radius: 50%;
+}
+
+.hobb{
+    color: white;
+    text-align: center;
+    margin: 30px;
+}
+.ss{
+    color: red;
+
+}
+.mycard {
+    background-color: white;
+    padding: 30px;
+    margin: 30px;
+    border: 1px solid lightcoral;
+    border-top: 10px solid lightcoral;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.mylist{
+    display: flex;
+    justify-content: center;
+
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+    border: 5px solid teal;
+}
+th{
+    background-color: rgb(167, 32, 144);
+
+}
+td{
+    background-color: rgb(253, 246, 253);
+}
+th,td{
+    text-align: center;
+    padding: 20px;
+}
+.forma{
+    color: white;
+    margin: 20px 20% ;
+}
+input[type=text]{
+    width: 100%;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.btn{
+    text-align: center;
+    width: 50%;
+    padding: 10px 20px ;
+    margin: 10px 0;
+    border: 1px solid teal;
+    border-radius: 5px;
+}

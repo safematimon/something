@@ -1,0 +1,17 @@
+section{
+    background-color: gray;
+    width: 400px;
+    height: 400px;
+}
+div{
+    background-color: peachpuff;
+    width: 70%;
+    height: 20%;
+}
+h1{
+    font-size: 40px;
+    border: 1px solid black;
+}
+h2{
+    font-size: 2em nz;
+}
